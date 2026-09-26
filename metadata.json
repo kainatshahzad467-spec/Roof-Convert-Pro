@@ -1,0 +1,6 @@
+{
+  "name": "ROVEN Roofing — Architectural Roofing & Exterior Systems",
+  "description": "Premium residential and commercial roofing solutions, roof replacement, repair, and free inspections with unmatched durability and craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
